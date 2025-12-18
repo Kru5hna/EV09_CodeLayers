@@ -1,10 +1,10 @@
-# CodeLayers
+# LogicLayers
 
 > **Envision Datathon Project** - Grey Market Detection and Analysis Solution
 
 ## 🎯 Project Overview
 
-CodeLayers Presents a comprehensive data analysis solution developed for the Envision Datathon, focusing on detecting and analyzing grey market activities in e-commerce platforms. The project leverages machine learning and statistical techniques to identify suspicious seller behavior and counterfeit product distribution patterns.
+LogicLayers Presents a comprehensive data analysis solution developed for the Envision Datathon, focusing on detecting and analyzing grey market activities in e-commerce platforms. The project leverages machine learning and statistical techniques to identify suspicious seller behavior and counterfeit product distribution patterns.
 
 ## 📊 Problem Statement
 
@@ -25,10 +25,10 @@ Grey market activities pose significant challenges to legitimate e-commerce plat
 ## 📁 Project Structure
 
 ```
-CodeLayers/
+LogicLayers/
 ├── script/                          # Analysis and modeling scripts
 ├── ecommerce_grey_market_data.csv  # Dataset for analysis
-├── CodeLayers_Round_1_Roadmap_Poster.png  # Project roadmap visualization
+├── LogicLayers_Round_1_Roadmap_Poster.png  # Project roadmap visualization
 └── README.md                        # Project documentation
 ```
 
@@ -44,8 +44,8 @@ CodeLayers/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Kru5hna/CodeLayers.git
-cd CodeLayers
+git clone https://github.com/Kru5hna/logicLayers.git
+cd logicLayers
 ```
 
 2. Create a virtual environment (recommended):
@@ -81,11 +81,11 @@ The `ecommerce_grey_market_data.csv` contains e-commerce transaction data with f
 
 ## 🗺️ Roadmap
 
-View our complete project roadmap in `CodeLayers_Round_1_Roadmap_Poster.png`
+View our complete project roadmap in `logicLayers_Round_1_Roadmap_Poster.png`
 
 ## 👥 Team
 
-**Team CodeLayers** - Envision Datathon Participants
+**Team logicLayers** - Envision Datathon Participants
 
 ## 🤝 Contributing
 
@@ -98,7 +98,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 
-**Team CodeLayers**
+**Team logicLayers**
 
 - **Krushna Raut** – [github.com/kru5hna](https://github.com/kru5hna)
 - **Abhijeet Mate** – [github.com/Abhijeet314](https://github.com/Abhijeet314)
